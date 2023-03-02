@@ -16,7 +16,7 @@ namespace WindowsFormsApp3
         {
             InitializeComponent();
         }
-
+        // El pepe
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             string elemento = txtNombre.Text;
